@@ -1,6 +1,6 @@
 # US-Gun--Related-Deaths-Rates
 
-Where US and third world countries rates meet
+Where US and Third World Rates Meet
 
 I came up with the idea for this project after seeing the growing of the hashtag __#ThisIsOurLane__ when an American doctor’s tweet response to NRA’s “stay in their lane” went viral.
 

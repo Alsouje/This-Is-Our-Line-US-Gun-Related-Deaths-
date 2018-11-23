@@ -2,18 +2,18 @@
 
 Where US and Third World Rates Meet
 
-I came up with the idea for this project after seeing the growing of the hashtag __#ThisIsOurLane__ when an American doctor’s tweet response to NRA’s “stay in their lane” went viral.
+I came up with the idea for this project after seeing the growth of the hashtag __#ThisIsOurLane__ when an American doctor’s tweet response to NRA’s “stay in their lane” went viral.
 
-US has a very high rate of gun-shot deaths. There are decades of conflict between the medical and science community, who have called the rise in gun violence a public health crisis.
+US has a very high rate of gun-shot deaths. There are decades of conflict between the medical and scientific community, who have called the rise in gun violence a public health crisis.
 
 Doctors interpreted National Rifle Association’ tweet (NRA, America’s most influential gun rights group) as foul language and it was the trigger for Doctor Judy Melinek’s post which quickly gained support from other doctors and forensic pathologists.
 
 I have decided to use this topic as my first Python project, analyzing firearm-related death rates in US between 2012-2014. My aim was to find patterns in the data that shows reasons behind the medical’s community reaction to NRA’s tweet.
 
 
-It was my first using Python. It was created after two-month time studying Python language in my spare time while also preparing to my final exams and the last months of my graduate job. 
+This project was created after a two-month time studying Python language in my spare time while also preparing for my final exams and my graduate job. 
 
-You will notice that the code used is not exactly rocket science coding. However, the conclusion of this project made me very proud of myself owing to the fact I have never been evolved with any program language previously. 
+You will notice that the code used is not exactly rocket science coding. However, the completion of this project made me very proud of myself owing to the fact I have never been evolved with any programming language previously. 
 
 While learning python Anaconda was the package management chosen. Half way in the process of learning Python, Anaconda Navigator stopped working which was very frustrating at the time, but with a feel google researches I discovered Stack Overflow community. Fixing the issue was very challenging, it took me an entire Saturday to figure it out what was wrong. 
 
